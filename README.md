@@ -579,7 +579,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - ### Stack
 
   - [x] [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
-  - [x] Will not implement. Implementing with array is trivial
+  - [ ] Will not implement. Implementing with array is trivial
 
 - ### Queue
 
